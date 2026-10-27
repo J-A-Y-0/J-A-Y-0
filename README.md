@@ -1,6 +1,6 @@
 ### Jay Yu
 
-MSBA at UCLA Anderson. I build analytics and AI systems that a business can act on: data pipelines, models judged by their outcomes, and LLM agents with evaluation and human review.
+I build analytics and AI systems that a business can act on: data pipelines, models judged by their outcomes, and LLM agents with evaluation and human review.
 
 | Project | What it does |
 | --- | --- |
